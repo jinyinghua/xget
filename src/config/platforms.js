@@ -89,7 +89,7 @@ export const PLATFORMS = {
   'cr-gitpod': 'https://registry.gitpod.io',
 
   // Custom Platforms by Shaun
-  hf: 'https://router.huggingface.co'
+  huggingface: 'https://router.huggingface.co'
 
 };
 
